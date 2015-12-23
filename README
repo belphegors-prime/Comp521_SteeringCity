@@ -1,0 +1,19 @@
+Unfortunately, this project does not work with Unity3D 5+.
+If I had the time to fix it, I would, but I don't.
+For the record, my partner and I got a 90% on this project, which I don't expect anyone to believe, but here's our feedback our professor gave us:
+
+Individual Feedback:
+
++ Interesting approach in having survivors (and zombies) cooperate
++ Reasonable level of complexity; nice attempt to use steering for various purposes
++/- Good experimental results; given the number of parameters in your design, testing additional, different parameters would have been interesting.  Not clear why many results are missing in your grid (not enough time or code failure?)
+
+Problem Scope and Approach: 5
+Implementation Skill, Difficulty, and Complexity: 4
+Experimentation: 4
+Degree of Completion: 4
+Report: 5
+
+Total: 22/25
+Demo: 5/5
+
